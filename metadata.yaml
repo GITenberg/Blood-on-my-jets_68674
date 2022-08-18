@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Johann_Peter_Hebel
     - https://de.wikipedia.org/wiki/Johann_Peter_Hebel
+covers:
+- cover_type: archival
+  image_path: 68674-h/images/cover.jpg
 creator:
   author:
     agent_name: Budrys, Algis
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25613
     wikipedia: https://en.wikipedia.org/wiki/Algis_Budrys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68674#Blood-on-my-jets
 gutenberg_issued: '2022-08-03'
 identifiers:
   gutenberg: '68674'
